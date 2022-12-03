@@ -1,0 +1,17 @@
+{
+    "name": "user/generating-pdf-using-tcpdf",
+    "autoload": {
+        "psr-4": {
+            "User\\GeneratingPdfUsingTcpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoGarcia719",
+            "email": "garcia.josephandrew@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
